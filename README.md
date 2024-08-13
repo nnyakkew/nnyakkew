@@ -1,16 +1,14 @@
-## Hi there 👋
 ### Boas vindas ao meu perfil :nnyakkew
+
 Meu nome é Maria Luisa
 
+- Estou estudando na Alura 
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçã0 e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
+  00001113587039sp@al.educacao.sp.gov.br
   
+  @nnyakkew_
+
