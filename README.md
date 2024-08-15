@@ -12,3 +12,4 @@ Meu nome é Maria Luisa
   
   @nnyakkew_
 
+![andteam-andteam-jo](https://github.com/user-attachments/assets/2e1ab012-dc2e-4145-b414-55179a9ab370)
